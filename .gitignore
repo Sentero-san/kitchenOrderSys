@@ -1,0 +1,11 @@
+# 1
+__pycache__/
+*.pyc
+.env
+
+# 2
+*.log
+
+# 3
+!docs/release_notes.log
+ 
