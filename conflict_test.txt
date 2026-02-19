@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 строка из main изменилась
+=======
+строка из feature
+>>>>>>> feature/conflict-test
